@@ -43,5 +43,5 @@ Open on Kaggle, add the [Heart Failure Prediction](https://www.kaggle.com/datase
  
 ## Author
  
-**Rugved** — [Kaggle](https://www.kaggle.com/rugvedbane) · [GitHub](https://github.com/RugvedBane)
+**Rugved** — [Kaggle](https://www.kaggle.com/rugvedbane)
  
